@@ -1,1 +1,1 @@
-A program simulating automatic traffic lights
+A program simulating automatic traffic ligths
